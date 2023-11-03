@@ -1,0 +1,63 @@
+
+
+>>>>> Incoming Transmission <<<<<
+
+[Mecânica]
+
+- Instalar satélites
+
+
+[Comandos]
+
+- Clicar com o mouse nos slots de satélites
+- Direção do satélite
+- Zoom In / Out
+- Pause
+
+
+[Interface] 
+
+- Número de satélites disponíveis (Unidades)
+- Tempo decorrido (Cronômetro)
+- Percentual de mensagem transmitida (Barra)
+
+
+[Telas] 
+
+1) Splash
+2) Tela / Menu principal
+3) Opções
+4) Seleção de estágio
+5) Gameplay
+6) Score
+7) Pausa / Continua / Sair
+
+[Músicas / Sons]
+
+
+* Música menu principal (seleção?)
+* Som troca de opção menu
+- Som confirma opção
+* Som troca de estágio
+* Som confirma estágio / back
+- Música gameplay
+- Som instala satélite 
+- Som clique "PLAY"
+- Som confirma transmissão
+* Som alerta
+- Som fim estágio
+* Som score
+* Som infos score
+
+
+[Elementos]
+
+- Galáxias (estágios)
+- Planetas
+- Satélites
+- Estação
+- Nave
+
+
+
+
