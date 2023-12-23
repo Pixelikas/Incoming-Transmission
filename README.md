@@ -4,4 +4,4 @@ The game was developed using Unity, for Global Game Jam 2018.<br><br>
 You can play it on the link bellow:<br>
 https://kroltan.itch.io/incoming-transmission<br><br>
 
-![print-incoming](https://github.com/Pixelikas/Incoming-Transmission/assets/67108278/36263e1f-2edd-415b-9aa0-486593487d49)
+![print-incoming](https://github.com/Pixelikas/Incoming-Transmission/assets/67108278/55289da8-c1eb-432d-8c89-be8ce47fcc70)
